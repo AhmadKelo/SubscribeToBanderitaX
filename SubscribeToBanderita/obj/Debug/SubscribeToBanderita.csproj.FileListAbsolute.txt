@@ -1,0 +1,14 @@
+C:\Users\KELO\source\repos\SubscribeToBanderita\SubscribeToBanderita\bin\Debug\SubscribeToBanderita.exe.config
+C:\Users\KELO\source\repos\SubscribeToBanderita\SubscribeToBanderita\bin\Debug\SubscribeToBanderita.exe
+C:\Users\KELO\source\repos\SubscribeToBanderita\SubscribeToBanderita\bin\Debug\SubscribeToBanderita.pdb
+C:\Users\KELO\source\repos\SubscribeToBanderita\SubscribeToBanderita\obj\Debug\SubscribeToBanderita.csprojAssemblyReference.cache
+C:\Users\KELO\source\repos\SubscribeToBanderita\SubscribeToBanderita\obj\Debug\SubscribeToBanderita.frm1.resources
+C:\Users\KELO\source\repos\SubscribeToBanderita\SubscribeToBanderita\obj\Debug\SubscribeToBanderita.Properties.Resources.resources
+C:\Users\KELO\source\repos\SubscribeToBanderita\SubscribeToBanderita\obj\Debug\SubscribeToBanderita.csproj.GenerateResource.cache
+C:\Users\KELO\source\repos\SubscribeToBanderita\SubscribeToBanderita\obj\Debug\SubscribeToBanderita.csproj.CoreCompileInputs.cache
+C:\Users\KELO\source\repos\SubscribeToBanderita\SubscribeToBanderita\obj\Debug\SubscribeToBanderita.exe
+C:\Users\KELO\source\repos\SubscribeToBanderita\SubscribeToBanderita\obj\Debug\SubscribeToBanderita.pdb
+C:\Users\KELO\source\repos\SubscribeToBanderita\SubscribeToBanderita\bin\Debug\WindowsInput.dll
+C:\Users\KELO\source\repos\SubscribeToBanderita\SubscribeToBanderita\bin\Debug\WindowsInput.pdb
+C:\Users\KELO\source\repos\SubscribeToBanderita\SubscribeToBanderita\bin\Debug\WindowsInput.xml
+C:\Users\KELO\source\repos\SubscribeToBanderita\SubscribeToBanderita\obj\Debug\SubscribeToBanderita.csproj.CopyComplete
