@@ -1,2 +1,3 @@
-# SubscribeToBanderitaX
- This Program Subscribe's to BanderitaX's Channel Autumatically For You on PC (This Program Is Just For FUN)
+# برنامج اشتراك لبدريتا
+هذا البرنامج طورته للمتعة فقط
+# قبل الضغط على زر الاشتراك تأكد أنك مو عامل اشتراك و لايك
